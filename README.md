@@ -19,6 +19,7 @@ Here are some of the tools and technologies I use daily:
 
 ![Badge](https://www.codestring.co.uk/wp-content/uploads/2016/07/VisualStudio.png) 
 
+![Badge](https://e7.pngegg.com/pngimages/326/636/png-clipart-visual-studio-code-full-logo-tech-companies-thumbnail.png) 
 ---
 
 ### 💻 Programming Languages
