@@ -17,7 +17,7 @@ Here are some of the tools and technologies I use daily:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Badge](https://www.codestring.co.uk/wp-content/uploads/2016/06/visualstudio.png)
+![Badge](https://www.codestring.co.uk/wp-content/uploads/2016/07/VisualStudio.png) 
 
 ---
 
