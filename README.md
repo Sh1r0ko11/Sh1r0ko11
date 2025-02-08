@@ -52,7 +52,7 @@ If you're looking for help with cybersecurity threats, here are some trusted fir
 
 ### 📫 How to Reach Me
 
-If you'd like to get in touch, feel free to reach out to me on Discord:
+If you'd like to report stuff or anything else, feel free to reach out to me on Discord:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)  
 **Discord Name:** `luca_idk_myname_`
