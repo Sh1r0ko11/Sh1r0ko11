@@ -18,7 +18,6 @@ Here are some of the tools and technologies I use daily:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw3s5Az3prgoU0TlKVkR2Qr-&ust=1739061046769000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjhn4_psosDFQAAAAAdAAAAABAE
 ---
 
 ### 💻 Programming Languages
