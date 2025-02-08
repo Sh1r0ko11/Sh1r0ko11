@@ -1,4 +1,4 @@
-# Hi there, I'm Sh1r0ko11👋
+# Hi there, I'm [Your Name] 👋
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.png)](https://github.com/YourUsername)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername)
@@ -70,6 +70,18 @@ If you'd like to get in touch, feel free to connect with me on the following pla
 ### 🎉 Fun Fact
 
 I once coded an entire app just because I was bored on a rainy Sunday. 🌧️💻
+
+---
+
+### 💰 Support Me
+
+If you find my work helpful and want to support me, feel free to donate Bitcoin! Click the badge below to copy my Bitcoin wallet address:
+
+<details>
+<summary><a href="#" onclick="navigator.clipboard.writeText('bc1qfx23gwsjtpaefw7tpe23f7fhsswtzjxhqasu9r').then(() => alert('Bitcoin address copied to clipboard! 🎉'))"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"></a></summary>
+<br>
+My Bitcoin wallet address: <code>bc1qfx23gwsjtpaefw7tpe23f7fhsswtzjxhqasu9r</code>
+</details>
 
 ---
 
