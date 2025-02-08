@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/YourUsername)
 
-I'm a **Developer** who builds **everything and anything**—whether it's for a purpose or just out of boredom. I love turning ideas into reality through code and constantly exploring new technologies. If it can be coded, I'll probably try to build it!
+I'm a **Developer** who builds **everything and anything**—whether it's for a purpose for ethical stuff or **NOT** or just out of boredom. I love turning ideas into reality through code and constantly exploring new technologies. If it can be coded, I'll probably try to build it! 
 
 ---
 
@@ -17,6 +17,8 @@ Here are some of the tools and technologies I use daily:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw3s5Az3prgoU0TlKVkR2Qr-&ust=1739061046769000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjhn4_psosDFQAAAAAdAAAAABAE
 ---
 
 ### 💻 Programming Languages
