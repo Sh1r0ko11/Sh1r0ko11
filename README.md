@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sh1r0ko11 👋
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.png)](https://github.com/YourUsername)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername)
@@ -51,21 +51,14 @@ If you're looking for help with cybersecurity threats, here are some trusted fir
 
 ### 📫 How to Reach Me
 
-If you'd like to get in touch, feel free to connect with me on the following platforms:
+If you'd like to get in touch, feel free to reach out to me on Discord:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)  
+**Discord Name:** `luca_idk_myname_`
 
 ---
 
-### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
 
 ### 🎉 Fun Fact
 
