@@ -65,7 +65,7 @@ If you'd like to report stuff or anything else, feel free to reach out to me on 
 
 ### 🎉 Fun Fact
 
-I once coded an entire app just because I was bored on a rainy Sunday. 🌧️💻
+I once coded an Remote connection software just because I was bored
 
 ---
 
