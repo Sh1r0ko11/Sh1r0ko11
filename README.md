@@ -81,4 +81,4 @@ My Bitcoin wallet address: <code>bc1qfx23gwsjtpaefw7tpe23f7fhsswtzjxhqasu9r</cod
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😄
+
