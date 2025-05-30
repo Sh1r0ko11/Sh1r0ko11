@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/YourUsername)
 
-I'm a **Developer** who builds **everything and anything**—whether it's for a purpose for ethical stuff or **NOT** or just out of boredom. I love turning ideas into reality through code and constantly exploring new technologies. If it can be coded, I'll probably try to build it! 
+I'm a **Developer** who builds **everything and anything**—whether ethical or not
 
 ---
 
