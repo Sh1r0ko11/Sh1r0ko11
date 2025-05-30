@@ -6,7 +6,8 @@
 
 I'm a **Developer** who builds **everything and anything**—whether ethical or not
 Reverse engineering, analysis, development – I know malware from the inside.
----
+
+if you dont know ehat a Zero Day is---Zero-day is just another word for timing.
 
 ### 🛠️ Tools & Technologies I Work With
 
