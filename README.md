@@ -12,6 +12,8 @@ if you dont know what a Zero Day is---Zero-day is just another word for timing.
 ### 🛠️ Tools & Technologies I Work With
 
 Here are some of the tools and technologies I use daily:
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight)
 
 
