@@ -9,12 +9,13 @@ Reverse engineering, analysis, development – I know malware from the inside.
 
 if you dont know what a Zero Day is---Zero-day is just another word for timing.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight)
+
 ### 🛠️ Tools & Technologies I Work With
 
 Here are some of the tools and technologies I use daily:
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight)
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
