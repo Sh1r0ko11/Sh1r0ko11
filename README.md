@@ -10,7 +10,7 @@ Reverse engineering, analysis, development – I know malware from the inside.
 if you dont know what a Zero Day is---Zero-day is just another word for timing.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight) 
 
 ### 🛠️ Tools & Technologies I Work With
 
