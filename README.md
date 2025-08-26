@@ -1,4 +1,4 @@
-# wassup gang,  Sh1r0ko11 AIYO THATS ME😱
+#Yo
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.png)](https://github.com/YourUsername)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YourUsername)
