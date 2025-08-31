@@ -48,8 +48,3 @@ Discord: `luca_idk_myname`
 
 ---
 
-### Support
-
-If my work saves you time, a coffee is appreciated:  
-BTC `bc1qfx23gwsjtpaefw7tpe23f7fhsswtzjxhqasu9r`  
-(Click to copy)
