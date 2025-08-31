@@ -29,7 +29,7 @@ Dev stack
 ### I build when I’m curious
 
 - Side projects that solve tiny, real problems.  
-- Occasional security research—mostly to understand how things fail.  
+- Occasional security research mostly to understand how things fail.  
 - Open-source when it’s useful to others.
 
 ---
