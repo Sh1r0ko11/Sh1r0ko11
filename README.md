@@ -6,6 +6,7 @@
 I write code that works. everything from quick scripts to full-scale applications.  
 Most days I’m in the middle of reverse engineering, malware analysis, or just poking at new tech to see what breaks.
 
+(this readme isnt written by chatgpt if you wanna know)
 ---
 
 ### Languages & Tooling
