@@ -51,8 +51,7 @@ These teams know their stuff:
 
 ### Contact
 
-Discord: `luca_idk_myname`  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+Session: 055af2d1b436870042048d71b3d485b86eb1e4658f9082b62b49a8b42b42896216
 
 ---
 
