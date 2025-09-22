@@ -1,7 +1,7 @@
 # Yo – Full-stack developer & security researcher
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Sh1r0ko11)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sh1r0ko11)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sh1r0ko11)   
 
 I write code that works. everything from quick scripts to full-scale applications.  
 Most days I’m in the middle of reverse engineering, malware analysis, or just poking at new tech to see what breaks.
