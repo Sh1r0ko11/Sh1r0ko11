@@ -1,6 +1,9 @@
 # Yo – Full-stack developer & security researcher
 
-## AndroCrypt release soon, follow me to get a notification when it releases
+## AndroCrypt (Android Ransomware) release soon, follow me to get a notification when it releases
+
+
+
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Sh1r0ko11)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sh1r0ko11)   
