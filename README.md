@@ -1,7 +1,5 @@
 # Yo – Full-stack developer & security researcher
 
-## AndroCrypt (Android Ransomware) release soon, follow me to get a notification when it releases
-
 
 
 
