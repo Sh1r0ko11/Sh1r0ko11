@@ -25,7 +25,7 @@ Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-and more where.....
+and more and still learning...
 
 Dev stack  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
