@@ -7,8 +7,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sh1r0ko11)   
 
 I write code that works. everything from quick scripts to full-scale applications or just poking at new tech to see what breaks.
-- i LOVE developing stuff out of everything, i dont GIVE A FUCK if its cheats, malware, or some random applications or websites, I JUST LOVE everything you can do with coding stuff.
- sure i code small roblox cheats, sure i code full RATS that i give free instead of some random ass dude wanting money for that shit, i do it free, i do it simple, i do it OPENSOURCE
+- i LOVE developing stuff out of everything  AND I MEAN L.O.V.E, i dont GIVE A FUCK if its cheats, malware, or some random applications or websites, I JUST LOVE everything you can do with coding.
+ sure i code small roblox cheats, sure i code full RATS that i give free instead of some random ass dude wanting money for that shit, i do it free, i do it simple, i do it OPENSOURCE. 
 
 
 ---
