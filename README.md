@@ -8,6 +8,8 @@
 
 I write code that works. everything from quick scripts to full-scale applications.  
 Most days I’m in the middle of reverse engineering, malware analysis, or just poking at new tech to see what breaks.
+i LOVE developing stuff out of everything, i dont GIVE A FUCK if its cheats, malware, or some random applications or websites, I JUST LOVE everything you can do with coding stuff.
+sure i code small roblox cheats, sure i code full RATS that i give free instead of some random ass dude wanting money for that shit, i do it free, i do it simple, i do it OPENSOURCE
 
 
 ---
@@ -48,7 +50,8 @@ Dev stack
 ### Need help with incident response?
 
 These teams know their stuff:  
-[Mandiant](https://www.mandiant.com) • [CrowdStrike](https://www.crowdstrike.com) • [Palo Alto Networks](https://www.paloaltonetworks.com) • [Kaspersky](https://www.kaspersky.com)
+[Mandiant]
+(https://www.mandiant.com) • [CrowdStrike](https://www.crowdstrike.com) • [Palo Alto Networks](https://www.paloaltonetworks.com) • [Kaspersky](https://www.kaspersky.com)
 
 ---
 
@@ -57,4 +60,5 @@ These teams know their stuff:
 Session: 055af2d1b436870042048d71b3d485b86eb1e4658f9082b62b49a8b42b42896216
 
 ---
+
 
