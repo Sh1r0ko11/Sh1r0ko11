@@ -34,7 +34,7 @@ Dev stack
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sh1r0ko11&layout=compact&langs_count=12&theme=tokyonight&hide_border=true)](https://github.com/Sh1r0ko11)
 
 ---
 
